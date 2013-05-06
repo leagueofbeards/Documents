@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Docs</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://leagueofbeards.com/">League of Beards</author>
+	<version>1.0</version>
+	<url>http://leagueofbeards.com/</url>
+	<description><![CDATA[Create Collaboratively editable documents. Combine with our Pages plugin for a fully featured Documents system.]]></description>
+	<guid>c0f8f93e-6e8d-4f74-b49d-2a12e317522d</guid>
+	<tag>Documents</tag>
+	<tag>Collaboration</tag>
+	<copyright>2013</copyright>
+	<provides>
+		<feature>Documents</feature>
+	</provides>
+</pluggable>
